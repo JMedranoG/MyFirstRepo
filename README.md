@@ -1,2 +1,2 @@
 # MyFirstRepo
-Equisde (Pirmera Prueba )
+Este es una prueba poara mi curso de programacion
